@@ -31,6 +31,7 @@
     <h1 style="text-align: center;"> CONTACT WITH US</h1>
     <div class="axil-privacy-area axil-section-gap from_about_us ">
         <div class="container form_about_us">
+            <span></span>
 
             <!-- <form action="sendmail.php" method="post">
                 <label for="name">Your Name:</label>
