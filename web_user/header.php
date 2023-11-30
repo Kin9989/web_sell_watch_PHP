@@ -47,7 +47,7 @@
                                 <a href="index.php?act=home">HOME</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="#">CLOTHES</a>
+                                <a href="#">PRODUCTS</a>
                                 <ul class="axil-submenu">
                                     <?php
                                     foreach ($catalog_use as $catalog) {
