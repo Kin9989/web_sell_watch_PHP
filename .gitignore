@@ -1,1 +1,4 @@
-/database
+# MySQL
+*.sql
+*.sql.gz
+*.sql.xz
