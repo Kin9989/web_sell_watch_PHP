@@ -346,32 +346,69 @@
             <span onclick="slideRight()" class="btn"></span>
             <div id="slider">
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/citizen-logo.png" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/g-shock-logo.png" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/hublot.jpeg" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/montblanc.png" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/orient.jpg" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/ulysse.jpg" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/rolex.svg" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/citizen-logo.png" />
                 </div>
                 <div class="slide">
-                    <img src="../assets/images/others/sendsucess.jpg" />
+                    <img style="height:235px; width:100%" src="../assets/images/brand/g-shock-logo.png" />
                 </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/hublot.jpeg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/montblanc.png" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/orient.jpg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/ulysse.jpg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/rolex.svg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/citizen-logo.png" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/g-shock-logo.png" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/hublot.jpeg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/montblanc.png" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/orient.jpg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/ulysse.jpg" />
+                </div>
+                <div class="slide">
+                    <img style="height:235px; width:100%" src="../assets/images/brand/rolex.svg" />
+                </div>
+
             </div>
             <span onclick="slideLeft()" class="btn"></span>
         </div>
