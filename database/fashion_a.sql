@@ -57,7 +57,7 @@ CREATE TABLE `tbl_catalog` (
 
 INSERT INTO `tbl_catalog` (`id_catalog_k`, `catalog_name`, `prioritize`, `display_ctl`) VALUES
 (99, 'G-Shock', 1, 1),
-(100, 'CITIZEN ', 1, 1),
+(100, 'Citizen ', 1, 1),
 (101, 'Pierre Lannier', 1, 1),
 (102, 'Hublot ', 1, 1),
 (103, 'Orient ', 1, 1),
@@ -154,7 +154,7 @@ INSERT INTO `tbl_product` (`id_product`, `product_name`, `quantity`, `product_im
 (104, 'Đồng Hồ G-Shock GA-2100SB-1ADR  ', 23, 'G-shock1.jpg', 2487000, 99, 1, '2023-11-29', 14, 1, 1, 4145000, 'Đồng hồ điện tử cho Nam', '45.5'),
 (105, 'Đồng Hồ G-Shock GMA-S2100BA-4ADR   ', 20, 'G-shock2.jpg', 2902000, 99, 1, '2023-11-29', 14, 2, 2, 3628000, 'Đồng hồ điện tử cho Nữ', '42.9 '),
 (106, 'Đồng Hồ G-SHOCK GD-100GB-1DR  ', 22, 'GS3.jpg', 3357000, 99, 1, '2023-11-29', 14, 3, 3, 4197000, 'Đồng hồ điện tử cho Nam', '51.2'),
-(107, 'Đồng Hồ CITIZEN C7 NH8397-80H ', 21, 'citizen2.jpg', 7341000, 100, 1, '2023-11-29', 14, 1, 1, 9177000, 'Đồng hồ thời trang cho Nam', '40'),
+(107, 'Đồng Hồ Citizen C7 NH8397-80H ', 21, 'citizen2.jpg', 7341000, 100, 1, '2023-11-29', 14, 1, 1, 9177000, 'Đồng hồ thời trang cho Nam', '40'),
 (108, 'Đồng Hồ Citizen Tsuyosa Pantone  NJ0158-89Y ', 38, 'citizen3.jpg', 9508000, 100, 1, '2023-11-29', 14, 2, 2, 11885000, 'Đồng hồ thời trang cho Nam', '40'),
 (109, 'Đồng Hồ Citizen C7 NH8394-70H ', 60, 'citizen1.jpg', 9177000, 100, 1, '2023-11-29', 14, 3, 3, 0, 'Đồng hồ thời trang cho Nam', '40'),
 (110, 'Đồng Hồ Citizen C7 NH8390-71L', 30, 'citizen4.jpg', 8177000, 100, 1, '2023-11-29', 14, 4, 4, 0, 'Đồng hồ thời trang cho Nam', '40'),

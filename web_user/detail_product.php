@@ -43,7 +43,7 @@
                                             <img src="../uploads/'.$detail_product[0]["product_img"].'" alt="thumb image">
                                         </div>
                                         <div class="small-thumb-img">
-                                            <img src="../uploads/size.png" alt="thumb image">
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -94,8 +94,8 @@
                                             <h6 class="title">Size:</h6>
                                             <ul class="range-variant">
                                                 <li onclick="highlightSize(this)" class="active">'.$detail_product[0]["size"].'</li>
-                                                <li onclick="highlightSize(this)">XL</li>
-                                                <li onclick="highlightSize(this)">XXL</li>
+                                                
+                                                
 
                                             </ul>
                                         </div>
