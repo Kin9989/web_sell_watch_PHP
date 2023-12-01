@@ -192,7 +192,7 @@
                     // var_dump($product);
                     $i = 0;
                     foreach ($product as $pd) {
-                        if ($pd['view'] == 2 && $pd['special'] == 1) {
+                        if ($pd['view'] == 1 && $pd['special'] == 1) {
                             echo '
                     <div class="slick-single-layout">
                         <div class="axil-product product-style-six">

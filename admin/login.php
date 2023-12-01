@@ -11,7 +11,7 @@ if ((isset($_POST['user_check'])) && ($_POST['user_check'])) {
   $_SESSION['role'] = $role;
   // var_dump($role);
   if ($role == 1) {
-    header('location: admin.php?act=client');
+    header('location: admin.php?act=statistic');
   } else {
     $txt_erro = "Username or Password wrong or account dosen't exist!";
   }
